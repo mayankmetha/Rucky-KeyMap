@@ -3,6 +3,3 @@ markdown: GFM
 relative_links:
   enabled: true
   collections: true
-include:
-  - index.md
-  - en_us.md

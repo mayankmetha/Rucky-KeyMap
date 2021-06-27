@@ -1,14 +1,1 @@
-[
-    {
-        "name": "US English",
-        "revision": "1",
-        "filename": "us_english.json",
-        "url": "https://raw.githubusercontent.com/mayankmetha/Rucky-KeyMap/main/us_english.json"
-    },
-    {
-        "name": "UK English",
-        "revision": "1",
-        "filename": "uk_english.json",
-        "url": "https://raw.githubusercontent.com/mayankmetha/Rucky-KeyMap/main/uk_english.json"
-    }
-]
+[{"name": "US ENGLISH", "revision": "1", "filename": "us_english.json", "url": "https://raw.githubusercontent.com/mayankmetha/Rucky-KeyMap/main/us_english.json"}, {"name": "UK ENGLISH", "revision": "1", "filename": "uk_english.json", "url": "https://raw.githubusercontent.com/mayankmetha/Rucky-KeyMap/main/uk_english.json"}]
