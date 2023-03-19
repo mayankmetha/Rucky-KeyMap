@@ -1,0 +1,1625 @@
+{
+	"version": "0",
+	"mapping": {
+		" ": {
+			"name": "Space",
+			"keycode": "2C",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"!": {
+			"name": "Exclamation Mark",
+			"keycode": "1E",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Э": {
+			"name": "Э",
+			"keycode": "34",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"№": {
+			"name": "№",
+			"keycode": "20",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		";": {
+			"name": ";",
+			"keycode": "21",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"%": {
+			"name": "Percent Sign",
+			"keycode": "22",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"?": {
+			"name": "?",
+			"keycode": "24",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"э": {
+			"name": "э",
+			"keycode": "34",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"(": {
+			"name": "Left Parenthesis",
+			"keycode": "26",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		")": {
+			"name": "Right Parenthesis",
+			"keycode": "27",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"*": {
+			"name": "Asterisk",
+			"keycode": "25",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"+": {
+			"name": "Plus Sign",
+			"keycode": "2E",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"б": {
+			"name": "б",
+			"keycode": "36",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"-": {
+			"name": "Hyphen-Minus",
+			"keycode": "2D",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"ю": {
+			"name": "ю",
+			"keycode": "37",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		".": {
+			"name": ".",
+			"keycode": "38",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"0": {
+			"name": "Digit Zero",
+			"keycode": "27",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"1": {
+			"name": "Digit One",
+			"keycode": "1E",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"2": {
+			"name": "Digit Two",
+			"keycode": "1F",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"3": {
+			"name": "Digit Three",
+			"keycode": "20",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"4": {
+			"name": "Digit Four",
+			"keycode": "21",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"5": {
+			"name": "Digit Five",
+			"keycode": "22",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"6": {
+			"name": "Digit Six",
+			"keycode": "23",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"7": {
+			"name": "Digit Seven",
+			"keycode": "24",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"8": {
+			"name": "Digit Eight",
+			"keycode": "25",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"9": {
+			"name": "Digit Nine",
+			"keycode": "26",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Ж": {
+			"name": "Ж",
+			"keycode": "33",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"ж": {
+			"name": "ж",
+			"keycode": "33",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Б": {
+			"name": "Б",
+			"keycode": "36",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"=": {
+			"name": "Equals Sign",
+			"keycode": "2E",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Ю": {
+			"name": "Ю",
+			"keycode": "37",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		",": {
+			"name": ",",
+			"keycode": "38",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"\"": {
+			"name": "\"",
+			"keycode": "1F",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Ф": {
+			"name": "Ф",
+			"keycode": "04",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"И": {
+			"name": "И",
+			"keycode": "05",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"С": {
+			"name": "С",
+			"keycode": "06",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"В": {
+			"name": "В",
+			"keycode": "07",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"У": {
+			"name": "У",
+			"keycode": "08",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"А": {
+			"name": "А",
+			"keycode": "09",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"П": {
+			"name": "П",
+			"keycode": "0A",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Р": {
+			"name": "Р",
+			"keycode": "0B",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Ш": {
+			"name": "Ш",
+			"keycode": "0C",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"О": {
+			"name": "О",
+			"keycode": "0D",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Л": {
+			"name": "Л",
+			"keycode": "0E",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Д": {
+			"name": "Д",
+			"keycode": "0F",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Ь": {
+			"name": "Ь",
+			"keycode": "10",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Т": {
+			"name": "Т",
+			"keycode": "11",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Щ": {
+			"name": "Щ",
+			"keycode": "12",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"З": {
+			"name": "З",
+			"keycode": "13",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Й": {
+			"name": "Й",
+			"keycode": "14",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"К": {
+			"name": "К",
+			"keycode": "15",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Ы": {
+			"name": "Ы",
+			"keycode": "16",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Е": {
+			"name": "Е",
+			"keycode": "17",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Г": {
+			"name": "Г",
+			"keycode": "18",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"М": {
+			"name": "М",
+			"keycode": "19",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Ц": {
+			"name": "Ц",
+			"keycode": "1A",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Ч": {
+			"name": "Ч",
+			"keycode": "1B",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Н": {
+			"name": "Н",
+			"keycode": "1C",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Я": {
+			"name": "Я",
+			"keycode": "1D",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"х": {
+			"name": "Left Square Bracket",
+			"keycode": "2F",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"\\": {
+			"name": "Reverse Solidus",
+			"keycode": "31",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"ъ": {
+			"name": "Right Square Bracket",
+			"keycode": "30",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		":": {
+			"name": ":",
+			"keycode": "23",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"_": {
+			"name": "Low Line",
+			"keycode": "2D",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"ё": {
+			"name": "ё",
+			"keycode": "35",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"ф": {
+			"name": "ф",
+			"keycode": "04",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"и": {
+			"name": "и",
+			"keycode": "05",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"с": {
+			"name": "с",
+			"keycode": "06",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"в": {
+			"name": "в",
+			"keycode": "07",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"у": {
+			"name": "у",
+			"keycode": "08",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"а": {
+			"name": "а",
+			"keycode": "09",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"п": {
+			"name": "п",
+			"keycode": "0A",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"р": {
+			"name": "р",
+			"keycode": "0B",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"ш": {
+			"name": "ш",
+			"keycode": "0C",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"о": {
+			"name": "о",
+			"keycode": "0D",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"л": {
+			"name": "л",
+			"keycode": "0E",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"д": {
+			"name": "д",
+			"keycode": "0F",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"ь": {
+			"name": "ь",
+			"keycode": "10",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"т": {
+			"name": "т",
+			"keycode": "11",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"щ": {
+			"name": "щ",
+			"keycode": "12",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"з": {
+			"name": "з",
+			"keycode": "13",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"й": {
+			"name": "й",
+			"keycode": "14",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"к": {
+			"name": "к",
+			"keycode": "15",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"ы": {
+			"name": "ы",
+			"keycode": "16",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"е": {
+			"name": "е",
+			"keycode": "17",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"г": {
+			"name": "г",
+			"keycode": "18",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"м": {
+			"name": "м",
+			"keycode": "19",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"ц": {
+			"name": "ц",
+			"keycode": "1A",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"ч": {
+			"name": "ч",
+			"keycode": "1B",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"н": {
+			"name": "н",
+			"keycode": "1C",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"я": {
+			"name": "я",
+			"keycode": "1D",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Х": {
+			"name": "Х",
+			"keycode": "2F",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"/": {
+			"name": "/",
+			"keycode": "31",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Ъ": {
+			"name": "Ъ",
+			"keycode": "30",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Ё": {
+			"name": "Ё",
+			"keycode": "35",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},				
+		">": {
+			"name": "Greater-Than Sign",
+			"keycode": "37",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"<": {
+			"name": "Less-Than Sign",
+			"keycode": "36",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"{": {
+			"name": "Left Curly Bracket",
+			"keycode": "2F",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"|": {
+			"name": "Vertical Line",
+			"keycode": "31",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"}": {
+			"name": "Right Curly Bracket",
+			"keycode": "30",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"&": {
+			"name": "Ampersand",
+			"keycode": "24",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},	
+		"]": {
+			"name": "Right Square Bracket",
+			"keycode": "30",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"^": {
+			"name": "Circumflex Accent",
+			"keycode": "23",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"[": {
+			"name": "Left Square Bracket",
+			"keycode": "2F",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},		
+		"'": {
+			"name": "Apostrophe",
+			"keycode": "34",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"A": {
+			"name": "Latin Capital Letter A",
+			"keycode": "04",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"B": {
+			"name": "Latin Capital Letter B",
+			"keycode": "05",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"C": {
+			"name": "Latin Capital Letter C",
+			"keycode": "06",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"D": {
+			"name": "Latin Capital Letter D",
+			"keycode": "07",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"E": {
+			"name": "Latin Capital Letter E",
+			"keycode": "08",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"F": {
+			"name": "Latin Capital Letter F",
+			"keycode": "09",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"G": {
+			"name": "Latin Capital Letter G",
+			"keycode": "0A",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"H": {
+			"name": "Latin Capital Letter H",
+			"keycode": "0B",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"I": {
+			"name": "Latin Capital Letter I",
+			"keycode": "0C",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"J": {
+			"name": "Latin Capital Letter J",
+			"keycode": "0D",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"K": {
+			"name": "Latin Capital Letter K",
+			"keycode": "0E",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"L": {
+			"name": "Latin Capital Letter L",
+			"keycode": "0F",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"M": {
+			"name": "Latin Capital Letter M",
+			"keycode": "10",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"N": {
+			"name": "Latin Capital Letter N",
+			"keycode": "11",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"O": {
+			"name": "Latin Capital Letter O",
+			"keycode": "12",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"P": {
+			"name": "Latin Capital Letter P",
+			"keycode": "13",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Q": {
+			"name": "Latin Capital Letter Q",
+			"keycode": "14",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"R": {
+			"name": "Latin Capital Letter R",
+			"keycode": "15",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"S": {
+			"name": "Latin Capital Letter S",
+			"keycode": "16",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"T": {
+			"name": "Latin Capital Letter T",
+			"keycode": "17",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"U": {
+			"name": "Latin Capital Letter U",
+			"keycode": "18",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"V": {
+			"name": "Latin Capital Letter V",
+			"keycode": "19",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"W": {
+			"name": "Latin Capital Letter W",
+			"keycode": "1A",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"X": {
+			"name": "Latin Capital Letter X",
+			"keycode": "1B",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Y": {
+			"name": "Latin Capital Letter Y",
+			"keycode": "1C",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"Z": {
+			"name": "Latin Capital Letter Z",
+			"keycode": "1D",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"a": {
+			"name": "Latin Small Letter a",
+			"keycode": "04",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"b": {
+			"name": "Latin Small Letter b",
+			"keycode": "05",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"c": {
+			"name": "Latin Small Letter c",
+			"keycode": "06",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"d": {
+			"name": "Latin Small Letter d",
+			"keycode": "07",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"e": {
+			"name": "Latin Small Letter e",
+			"keycode": "08",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"f": {
+			"name": "Latin Small Letter f",
+			"keycode": "09",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"g": {
+			"name": "Latin Small Letter g",
+			"keycode": "0A",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"h": {
+			"name": "Latin Small Letter h",
+			"keycode": "0B",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"i": {
+			"name": "Latin Small Letter i",
+			"keycode": "0C",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"j": {
+			"name": "Latin Small Letter j",
+			"keycode": "0D",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"k": {
+			"name": "Latin Small Letter k",
+			"keycode": "0E",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"l": {
+			"name": "Latin Small Letter l",
+			"keycode": "0F",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"m": {
+			"name": "Latin Small Letter m",
+			"keycode": "10",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"n": {
+			"name": "Latin Small Letter n",
+			"keycode": "11",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"o": {
+			"name": "Latin Small Letter o",
+			"keycode": "12",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"p": {
+			"name": "Latin Small Letter p",
+			"keycode": "13",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"q": {
+			"name": "Latin Small Letter q",
+			"keycode": "14",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"r": {
+			"name": "Latin Small Letter r",
+			"keycode": "15",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"s": {
+			"name": "Latin Small Letter s",
+			"keycode": "16",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"t": {
+			"name": "Latin Small Letter t",
+			"keycode": "17",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"u": {
+			"name": "Latin Small Letter u",
+			"keycode": "18",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"v": {
+			"name": "Latin Small Letter v",
+			"keycode": "19",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"w": {
+			"name": "Latin Small Letter w",
+			"keycode": "1A",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"x": {
+			"name": "Latin Small Letter x",
+			"keycode": "1B",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"y": {
+			"name": "Latin Small Letter y",
+			"keycode": "1C",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"z": {
+			"name": "Latin Small Letter z",
+			"keycode": "1D",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		},			
+		"#": {
+			"name": "Number Sign",
+			"keycode": "20",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"@": {
+			"name": "Commercial At",
+			"keycode": "1F",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"~": {
+			"name": "Tilde",
+			"keycode": "35",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"$": {
+			"name": "Dollar Sign",
+			"keycode": "21",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "left",
+				"alt": "none",
+				"meta": "none"
+			}
+		},
+		"": {
+			"name": "Delete",
+			"keycode": "2A",
+			"modifier": {
+				"ctrl": "none",
+				"shift": "none",
+				"alt": "none",
+				"meta": "none"
+			}
+		}
+	}
+}
